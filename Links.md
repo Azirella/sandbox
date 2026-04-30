@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 21:48 IR
+- 🗜️ [CNS_1.1.1_x64-setup.exe.zip](https://github.com/Azirella/sandbox/raw/main/dl/CNS_1.1.1_x64-setup.exe.zip) `643KB`
+
+- 🗜️ [CNS_1.1.1_x64-setup.exe.z01](https://github.com/Azirella/sandbox/raw/main/dl/CNS_1.1.1_x64-setup.exe.z01) `95.0MB`
+
+- 🗜️ [CNS_1.1.1_x64-setup.exe.z02](https://github.com/Azirella/sandbox/raw/main/dl/CNS_1.1.1_x64-setup.exe.z02) `95.0MB`
+
+- 🗜️ [CNS_1.1.1_x64-setup.exe.zip](https://github.com/Azirella/sandbox/raw/main/dl/CNS_1.1.1_x64-setup.exe.zip) `643KB`
+
+---
+
+
 ### 📅 2026-04-29 21:52 IR
 - 🎬 [تنها_تانلی_که_الان_در_ایران_جواب_میده_آموزش_V2Ray_روی_وردپرس.mp4](https://github.com/Azirella/sandbox/raw/main/dl/%D8%AA%D9%86%D9%87%D8%A7_%D8%AA%D8%A7%D9%86%D9%84%DB%8C_%DA%A9%D9%87_%D8%A7%D9%84%D8%A7%D9%86_%D8%AF%D8%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%AC%D9%88%D8%A7%D8%A8_%D9%85%DB%8C%D8%AF%D9%87_%D8%A2%D9%85%D9%88%D8%B2%D8%B4_V2Ray_%D8%B1%D9%88%DB%8C_%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3.mp4) `37.4MB`
 
